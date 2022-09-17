@@ -9,7 +9,9 @@
   <img align="center" alt="Wesley-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Wesley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"[>
+  <img align="center" alt="Wesley-Sass" height="30" width="40" src="https://svgshare.com/s/mkG">
+  <img align="center" alt="Wesley-Bootstrap" height="30" width="40" src="https://svgshare.com/s/mk5">
   <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://pm1.narvii.com/6392/19250e08c2ffdcf35e0c008597a3737c2b133a0b_hq.jpg">
 </div>
   
