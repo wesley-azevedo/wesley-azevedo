@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/wesleysazevedo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
- 
+ .
   ![Snake animation](https://github.com/wesley-azevedo/wesley-azevedo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
