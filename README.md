@@ -11,7 +11,7 @@
   <img align="center" alt="Wesley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://cdn.midjourney.com/0146859e-fd8a-4528-8803-287d6dd4f38b/grid_0.png">
+  <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://cdn.midjourney.com/2267b574-a703-4590-87f2-2c412bc59cb5/grid_0.png">
 </div>
   
   ##
