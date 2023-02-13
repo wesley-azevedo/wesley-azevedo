@@ -12,12 +12,10 @@
   <img align="center" alt="React Native" height="40" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/e49b06197a4b1981fc3891638c09bf79539c8c90/icons8-react-native.svg">
    <img align="center" alt="Angular" height="40" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/cc7f2909fc5acf8137f5683209ead0d1604add9f/icons8-angularjs.svg">
    <img align="center" alt="Vue-Js" height="40" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/b5b002ff7f01b880c9d32af46649b725fc94a49f/icons8-vue-js.svg">
-  <img align="center" alt="Chakra-UI" height="40" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/45eeb294d72e0ac9af3fb3c603995cb44fecacca/icons8-chakra-ui.svg">
   <img align="center" alt="Figma" height="40" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/b5b002ff7f01b880c9d32af46649b725fc94a49f/icons8-figma.svg">
   <img align="center" alt="Node-Js" height="50" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/9bf8abab471d47fed68b70e90c96c556d3cab45b/icons8-nodejs.svg">
-  <img align="center" alt="npm" height="40" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/9bf8abab471d47fed68b70e90c96c556d3cab45b/icons8-npm.svg">
   <img align="center" alt="Mongo-DB" height="40" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/b5b002ff7f01b880c9d32af46649b725fc94a49f/icons8-mongodb.svg">
-  <img align="center" alt="MySQL" height="44" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/b5b002ff7f01b880c9d32af46649b725fc94a49f/icons8-mysql-logo.svg">
+  <img align="center" alt="MySQL" height="46" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/b5b002ff7f01b880c9d32af46649b725fc94a49f/icons8-mysql-logo.svg">
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/wesley-azevedo/wesley-azevedo/9bf8abab471d47fed68b70e90c96c556d3cab45b/icons8-python.svg">
  <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/ZLKVrnn/Logotipo-Wesley-Azevedo.png">
 </div>
